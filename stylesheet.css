@@ -1,0 +1,84 @@
+body{
+ background-image: url(css/grfx/lasagnebackground.png);
+ background-repeat: no-repeat;
+ background-size: cover;
+
+}
+
+h1{
+  font-family: arial;
+  padding: 8px;
+  margin-top: 8px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  background-color: rgba(51, 51, 51, 0.8);
+  display: inline-block;
+}
+
+h2{
+  font-family: arial;
+  padding: 8px;
+  color: rgba(255, 255, 255, 1);
+  background-color: rgba(51, 51, 51, 0.8);
+  margin: 0px;
+}
+
+p{
+  font-family: arial;
+  margin: 0px;
+  padding: 8px;
+  color: rgba(255, 255, 255, 1);
+  background-color: rgba(51, 51, 51, 0.8);
+}
+
+ol{
+  list-style-type: disc;
+  padding-top: 8px;
+  display: inline-block;
+  padding-bottom: 8px;
+  font-family: arial;
+  color: rgba(255, 255, 255, 1);
+  margin: 0px;
+}
+
+.tomaat{
+  display: inline-block;
+  width: 250px;
+  height: 300px;
+  margin: 0, 0 ,0
+}
+
+.spicy{
+  display: inline-block;
+  width: 200px;
+  height: 300px;
+}
+
+.mozzarella{
+  display: inline-block;
+  width: 350px;
+  height: 300px;
+}
+
+.oil{
+  display: inline-block;
+  width: 173px;
+  height: 300px;
+}
+
+section{
+  background-color: rgba(51, 51, 51, 0.8);
+  display: inline-block;
+}
+
+h3{
+  font-family: arial;
+  background-color: rgba(51, 51, 51, 0.8);
+  color: rgba(255, 255, 255, 1);
+  margin: 0px;
+  padding: 8px;
+}
+
+a{
+  color: rgba(255, 51, 0, 1);
+}
